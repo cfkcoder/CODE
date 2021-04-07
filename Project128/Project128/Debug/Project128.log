@@ -1,0 +1,14 @@
+﻿生成启动时间为 2021/3/20 18:59:23。
+     1>项目“c:\Users\CH\documents\visual studio 2013\Projects\Project128\Project128\Project128.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         D:\download\hanhanhanhanhanhanhan\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TC /analyze- /errorReport:prompt text.c
+         text.c
+     1>c:\users\ch\documents\visual studio 2013\projects\project128\project128\text.c(5): warning C4086: 杂注参数应为“1”、“2”、“4”、“8”或者“16”
+       Link:
+         D:\download\hanhanhanhanhanhanhan\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"c:\users\ch\documents\visual studio 2013\Projects\Project128\Debug\Project128.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"c:\users\ch\documents\visual studio 2013\Projects\Project128\Debug\Project128.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"c:\users\ch\documents\visual studio 2013\Projects\Project128\Debug\Project128.lib" /MACHINE:X86 Debug\text.obj
+         Project128.vcxproj -> c:\users\ch\documents\visual studio 2013\Projects\Project128\Debug\Project128.exe
+     1>已完成生成项目“c:\Users\CH\documents\visual studio 2013\Projects\Project128\Project128\Project128.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:02.12
